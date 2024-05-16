@@ -23,8 +23,3 @@
   - mySQL
 
 - Git
-- Linux
-- Vimscript
-
-### 학력
-- Niagara College - Computer Programmer
