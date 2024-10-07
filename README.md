@@ -9,7 +9,7 @@
 - 의료영상 AI API연동 프로젝트 기반 자바(Java) 플스택 개발자 과정 수료 (2023-12-27 ~ 2024-07-15)
 
 ### 참여 프로젝트
-- ???
+- [Medivision](https://github.com/codekingjj/Medivision)
 
 ### 보유 기술
 - 프론트엔드
